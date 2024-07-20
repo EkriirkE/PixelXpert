@@ -20,7 +20,7 @@
 		<sh.siava.pixelxpert.ui.preferences.MaterialRangeSliderPreference
 			app:defaultValue="1"
 			android:key="QSColQty"
-			app:maxVal="4"
+			app:maxVal="8"
 			android:title="@string/qs_cols_number"
 			app:iconSpaceReserved="false"
 			app:minVal="1"
@@ -54,7 +54,7 @@
 		<sh.siava.pixelxpert.ui.preferences.MaterialRangeSliderPreference
 			app:defaultValue="1"
 			android:key="QSColQtyL"
-			app:maxVal="4"
+			app:maxVal="8"
 			android:title="@string/qs_cols_number"
 			app:iconSpaceReserved="false"
 			app:minVal="1"

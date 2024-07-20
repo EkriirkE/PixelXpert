@@ -1,11 +1,8 @@
-### For Pixel Stock Android 12 and 13 (Up to Nov 2022 - AOSP 13R8):  
-[![Latest Release for A12 & A13 up to Nov 2022](https://img.shields.io/badge/Download-v2.4.1-blue)](https://github.com/siavash79/PixelXpert/releases/tag/v2.4.1)  
+### Modified for LineageOS 14 (non-pixel) ###
+QuickSettings tile count fix for latest android 14 versions, based on v3.3.2 as newer versions crash
 
 ### For Pixel Stock Android 13 and 14 (starting with Dec 2022 security patch):  
-[![Latest Release](https://img.shields.io/github/v/release/siavash79/PixelXpert?color=green&include_prereleases&label=Download%20Latest%20Stable)](https://github.com/siavash79/PixelXpert/releases/latest)
-[![Latest Canary Release](https://img.shields.io/badge/Download%20Latest-Canary-blue)](https://github.com/siavash79/PixelXpert/releases/tag/canary_builds)
-
-![Downloads - Stable channel](https://img.shields.io/github/downloads/siavash79/PixelXpert/total?color=red&label=Downloads%20-%20Stable%20Channel)
+[![Latest Release](https://img.shields.io/github/v/release/EkriirkE/PixelXpert?color=green&include_prereleases&label=Download%20Latest%20Stable)](https://github.com/EkriirkE/PixelXpert/releases/latest)
 
 ### **PixelXpert Support Channels:**
 

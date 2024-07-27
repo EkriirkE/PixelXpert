@@ -1,21 +1,8 @@
-### For Pixel Stock Android 12 and 13 (Up to Nov 2022 - AOSP 13R8):  
-[![Latest Release for A12 & A13 up to Nov 2022](https://img.shields.io/badge/Download-v2.4.1-blue)](https://github.com/siavash79/PixelXpert/releases/tag/v2.4.1)  
+### modified version
+This version has the QuickSettings tile fix for the latest Android/LineageOS, based on PixelXpert v3.3.2 which was the last workig version.  Newer versions crash LineageOS
 
-### For Pixel Stock Android 13 and 14 (starting with Dec 2022 security patch):  
-[![Latest Release](https://img.shields.io/github/v/release/siavash79/PixelXpert?color=green&include_prereleases&label=Download%20Latest%20Stable)](https://github.com/siavash79/PixelXpert/releases/latest)
-[![Latest Canary Release](https://img.shields.io/badge/Download%20Latest-Canary-blue)](https://github.com/siavash79/PixelXpert/releases/tag/canary_builds)
-
-![Downloads - Stable channel](https://img.shields.io/github/downloads/siavash79/PixelXpert/total?color=red&label=Downloads%20-%20Stable%20Channel)
-
-### **PixelXpert Support Channels:**
-
-[![XDA URL](https://img.shields.io/twitter/url?label=XDA%20Developers&logo=XDA-Developers&style=social&url=http://XDA.PixelXpert.siava.sh)](http://XDA.PixelXpert.siava.sh)
-[![Telegram URL](https://img.shields.io/badge/Telegram-Join-2CA5E?style=social&logo=telegram)](https://t.me/PixelXpert_Discussion)
-
-![Header Image](https://github.com/siavash79/PixelXpert/blob/canary/.github/PixelXpert_Banner_1280.png?raw=true)
-
-This is a mixed Xposed+Magisk module, which is made to allow customizations that are not originally designed in AOSP (Android Open Source Project). Please read thorough below before reaching to download links
-<hr>
+### For LineageOS Android 13 and 14 (starting with Dec 2022 security patch):  
+[![This Release](https://img.shields.io/github/v/release/EkriirkE/PixelXpert?color=green&include_prereleases&label=Download%20Latest%20Stable)](https://github.com/EkriirkE/PixelXpert/releases/latest)
 
 ### **Features:**
 Currently, PixelXpert offers customizations on different aspects of system framework and SystemUI, including:
